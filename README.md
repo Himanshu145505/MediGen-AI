@@ -115,7 +115,7 @@ cd MediGen
 
 ---
 
-Working Project Video Link : https://www.youtube.com/watch?v=1crMMqDI1Ck
+Working Project Video Link : https://drive.google.com/file/d/1RT5HEk8B-HvdmJx665ed-8VOqPL7Dqio/view?usp=sharing
 
 ---
 
