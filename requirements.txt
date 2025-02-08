@@ -1,0 +1,8 @@
+lucide-react 
+fastapi
+pydantic
+google-generativeai
+pyngrok
+uvicorn
+nest-asyncio
+fastapi # For CORS and other middleware support
